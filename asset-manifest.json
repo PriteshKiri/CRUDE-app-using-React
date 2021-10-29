@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRUDE-app-using-React/static/css/main.8d03cd47.chunk.css",
+    "main.js": "/CRUDE-app-using-React/static/js/main.0f772df0.chunk.js",
+    "main.js.map": "/CRUDE-app-using-React/static/js/main.0f772df0.chunk.js.map",
+    "runtime-main.js": "/CRUDE-app-using-React/static/js/runtime-main.e16bba28.js",
+    "runtime-main.js.map": "/CRUDE-app-using-React/static/js/runtime-main.e16bba28.js.map",
+    "static/js/2.60751a62.chunk.js": "/CRUDE-app-using-React/static/js/2.60751a62.chunk.js",
+    "static/js/2.60751a62.chunk.js.map": "/CRUDE-app-using-React/static/js/2.60751a62.chunk.js.map",
+    "static/js/3.6aee3693.chunk.js": "/CRUDE-app-using-React/static/js/3.6aee3693.chunk.js",
+    "static/js/3.6aee3693.chunk.js.map": "/CRUDE-app-using-React/static/js/3.6aee3693.chunk.js.map",
+    "index.html": "/CRUDE-app-using-React/index.html",
+    "static/css/main.8d03cd47.chunk.css.map": "/CRUDE-app-using-React/static/css/main.8d03cd47.chunk.css.map",
+    "static/js/2.60751a62.chunk.js.LICENSE.txt": "/CRUDE-app-using-React/static/js/2.60751a62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e16bba28.js",
+    "static/js/2.60751a62.chunk.js",
+    "static/css/main.8d03cd47.chunk.css",
+    "static/js/main.0f772df0.chunk.js"
+  ]
+}
